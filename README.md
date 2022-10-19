@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmadimojtaba (mojtaba ahmadi)
-- 👀 I work with php and nodejs and solidity languages and laravel and express.js and reactnative frameworks
+- 👀 I work with php and nodejs and solidity languages and laravel and express.js frameworks
 - 🌱 I share my experiences here...
 - 💞️ i love coding...
 - 📫 my email : parsaweb401@gmail.com
